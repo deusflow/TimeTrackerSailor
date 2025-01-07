@@ -106,7 +106,7 @@
             this.lblResult.Location = new System.Drawing.Point(12, 159);
             this.lblResult.Name = "lblResult";
             this.lblResult.Size = new System.Drawing.Size(35, 13);
-            this.lblResult.Text = "Resut";
+            this.lblResult.Text = "Result";
 
             // Form1
             this.ClientSize = new System.Drawing.Size(400, 201);
