@@ -109,7 +109,7 @@
             this.lblResult.Text = "Result";
 
             // Form1
-            this.ClientSize = new System.Drawing.Size(340, 175);
+            this.ClientSize = new System.Drawing.Size(340, 178);
             this.Controls.Add(this.lblResult);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.textBoxDinner);
