@@ -20,7 +20,8 @@ namespace TimeTrackerApp
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.StartPosition = FormStartPosition.CenterScreen;
-            this.Icon = new Icon(@"Images/iconsailor.ico");
+           this.Icon = new Icon(@"Images/iconsailor.ico");
+           // this.Icon = new Icon(Properties.Resources.iconsailor);
 
             // Create the timer
             taskTimer = new System.Windows.Forms.Timer();
