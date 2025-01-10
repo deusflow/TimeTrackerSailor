@@ -25,7 +25,7 @@ namespace TimeTrackerApp
 
             // Create the timer
             taskTimer = new System.Windows.Forms.Timer();
-            taskTimer.Interval = 30000; // Set the timer interval (30 seconds)
+            taskTimer.Interval = 1000; // Set the timer interval (30 seconds)
             taskTimer.Tick += TaskTimer_Tick; // Bind the Tick event handler
 
             // Create a panel
